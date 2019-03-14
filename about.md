@@ -10,10 +10,10 @@ This system is developed by Team AnDy; 4th year Information Technology students 
 
 ![Group](./group.jpg)
 
-Christian Adrian Domantay - [Facebook](https://www.facebook.com/christianadrian.domantay) | [Github](https://github.com/ChristianDomantay)
+Ian Ishmael Oderon - [Facebook](https://www.facebook.com/Ianskie21) | [Github](https://github.com/darknblack) | [Fiverr](https://www.fiverr.com/darknblack) | [LinkedIn](https://www.linkedin.com/in/ian-ishmael-oderon-194090174/)
+
+Marie Anthonette Tan - [Facebook](https://www.facebook.com/aaaaanthonette) | [Github](https://github.com/toni-tan) | [LinkedIn](https://www.linkedin.com/in/marieartan)
 
 Dianne Keizel Gumatay - [Facebook](https://www.facebook.com/diannekeizel.gumatay) | [Github](https://github.com/keizel1007)
 
-Ian Ishmael Oderon - [Facebook](https://www.facebook.com/Ianskie21) | [Fiverr](https://www.fiverr.com/darknblack) | [LinkedIn](https://www.linkedin.com/in/ian-ishmael-oderon-194090174/)
-
-Marie Anthonette Tan - [Facebook](https://www.facebook.com/aaaaanthonette) | [Github](https://github.com/toni-tan) | [LinkedIn](https://www.linkedin.com/in/marieartan)
+Christian Adrian Domantay - [Facebook](https://www.facebook.com/christianadrian.domantay) | [Github](https://github.com/ChristianDomantay)
