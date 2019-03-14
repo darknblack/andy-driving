@@ -10,7 +10,7 @@ Get the latest weather update base on your GPS location.
 
 This system is developed by Team AnDy; 4th year Information Technology students from the Institute of Information and Computing Sciences of the University of Santo Toma,Manila.
 
-## MEET THE DEVELOPERS:
+## MEET THE TEAM:
 
 ![Group](./group.jpg)
 
