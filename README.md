@@ -1,3 +1,6 @@
+# Download
+[Click here to download the APK!](https://github.com/darknblack/andy-driving/andy.apk)
+
 #  ANDY DRIVING
 
 AnDy: Anti Drowsy Driving or <b>Andy Driving</b> is a mobile application for car drivers. It keeps the driver awake and alert to lessen the risk of getting involve in a car accident.
