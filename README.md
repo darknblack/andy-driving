@@ -1,5 +1,5 @@
 # Download
-[Click here to download the APK!](https://github.com/darknblack/andy-driving/andy.apk)
+[Click here to download the APK!](https://github.com/darknblack/andy-driving/raw/master/andy.apk)
 
 #  ANDY DRIVING
 
